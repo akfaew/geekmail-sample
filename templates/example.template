@@ -1,0 +1,9 @@
+{{- /*
+Template used by sample code from examples/
+*/ -}}
+To: {{ .To }}
+Subject: Hello, World!
+
+Hello{{ if .Name }} {{ .Name }}{{ end }}!
+
+This is your first GeekMail template!

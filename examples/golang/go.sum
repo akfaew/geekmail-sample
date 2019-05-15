@@ -1,0 +1,9 @@
+github.com/akfaew/aeutils v1.0.0/go.mod h1:RlBzh94OmpM8hx/wwg82atJV9wD6oYoCTMvduJdUaL4=
+github.com/akfaew/test v1.0.4 h1:SVLyz75gvpDq9CZypn7b9KXTg7JMpTFLMg3n3353wbw=
+github.com/akfaew/test v1.0.4/go.mod h1:W0czkPcrCL2YBWuhEeI0uHDVMkKXWubVnVDnI701JN8=
+github.com/geekmail/go-geekmail v0.0.0-20190526105346-6374ccb04d21 h1:f4Y99JOSL+T5afPA+tByz/X6Xj3O6ieE40YvIc7HUkg=
+github.com/geekmail/go-geekmail v0.0.0-20190526105346-6374ccb04d21/go.mod h1:x0L4ypajqOjqVnrhu9xDSwRkcLl0Thhd0TMZjfHCr2E=
+github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+golang.org/x/net v0.0.0-20180724234803-3673e40ba225/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+google.golang.org/appengine v1.5.0/go.mod h1:xpcJRLb0r/rnEns0DIKYYv+WjYCduHsrkT7/EB5XEv4=

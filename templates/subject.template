@@ -1,0 +1,12 @@
+{{- /*
+A simple template with a configurable Subject - for use in tests.
+The Subject is used to identify which test the draft came from.
+Used by https://github.com/geekmail/go-geekmail.
+*/ -}}
+To: {{ .To }}
+Subject: {{ .Subject }}
+
+Hello world!
+
+-- 
+Author
